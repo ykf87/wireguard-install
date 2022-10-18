@@ -35,7 +35,7 @@ chmod +x wireguard-install.sh
 ```
 
 ```bash
-curl -O https://github.com/ykf87/wireguard-install/blob/master/wireguard-install.sh
+curl -O https://raw.githubusercontent.com/ykf87/wireguard-install/master/wireguard-install.sh
 chmod +x wireguard-install.sh
 ./wireguard-install.sh
 ```
